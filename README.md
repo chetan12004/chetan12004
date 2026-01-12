@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi I'm Chetan
+
+Aspiring Cyber Security Enthusiast
+Intrested in Ethical hacking, blue teaming 
+
+## Skills
+<!-- fill this with skills -->
+
+## Projects
+
+## Contact me
+Mail : chetan021104@gmail.com
+Linkedin : 
 
 <!--
 **chetan12004/chetan12004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
