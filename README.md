@@ -10,29 +10,7 @@ Intrested in Ethical hacking, blue teaming
 
 ### 1. DVWA Ethical Hacking Project
 
-_**--Project Overview--**_
 
-This is my first project report that demonstrates ethical hacking techniques performed on 
-Damn Vulnerable Web Application (DVWA).
-
-_**--Objective--**_
-- To understand common web application vulnerabilities
-- To practice penetration testing in a safe lab environment
-
-_**--Tools & Technologies--**_
-- DVWA
-- Kali Linux
-- Metasploitable
-- SQLMap (manual understanding only)
-
-_**--Detailed Documentation--**_
- **Full project report with explanations and screenshots:**  
-[report/DVWA_Ethical_Hacking_Report.pdf](https://github.com/chetan12004/chetan12004/blob/main/Dvwa%20sqli.pdf)
-
-_**--Ethical Disclaimer--**_
-This project was conducted **strictly for educational purposes** on a 
-deliberately vulnerable application (DVWA) in a local lab environment.
-No real systems were harmed or targeted.
 
 
 ## Contact me
