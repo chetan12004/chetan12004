@@ -6,9 +6,9 @@ Intrested in Ethical hacking, blue teaming
 ## Skills
 <!-- fill this with skills -->
 
-# Projects
+## Projects
 
-## DVWA Ethical Hacking Project
+### 1.>DVWA Ethical Hacking Project
 
 _**--Project Overview--**_
 
