@@ -15,21 +15,21 @@ _**--Project Overview--**_
 This project demonstrates ethical hacking techniques performed on 
 Damn Vulnerable Web Application (DVWA).
 
-##  --Objective--
+_**--Objective--**_
 - To understand common web application vulnerabilities
 - To practice penetration testing in a safe lab environment
 
-## --Tools & Technologies--
+_**--Tools & Technologies--**_
 - DVWA
 - Kali Linux
 - Metasploit
 - SQLMap (manual understanding only)
 
-## --Detailed Documentation--
+_**--Detailed Documentation--**_
  **Full project report with explanations and screenshots:**  
 [report/DVWA_Ethical_Hacking_Report.pdf](https://github.com/chetan12004/chetan12004/blob/main/Dvwa%20sqli.pdf)
 
-##  --Ethical Disclaimer--
+_**--Ethical Disclaimer--**_
 This project was conducted **strictly for educational purposes** on a 
 deliberately vulnerable application (DVWA) in a local lab environment.
 No real systems were harmed or targeted.
