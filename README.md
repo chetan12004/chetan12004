@@ -10,9 +10,10 @@ Intrested in Ethical hacking, blue teaming
 
 ## DVWA Ethical Hacking Project
 
-##  --Project Overview--
+_**--Project Overview--**_
+
 This project demonstrates ethical hacking techniques performed on 
-**Damn Vulnerable Web Application (DVWA)**.
+Damn Vulnerable Web Application (DVWA).
 
 ##  --Objective--
 - To understand common web application vulnerabilities
