@@ -8,7 +8,7 @@ Intrested in Ethical hacking, blue teaming
 
 ## Projects
 
-### 1.>DVWA Ethical Hacking Project
+### 1. DVWA Ethical Hacking Project
 
 _**--Project Overview--**_
 
@@ -22,7 +22,7 @@ _**--Objective--**_
 _**--Tools & Technologies--**_
 - DVWA
 - Kali Linux
-- Metasploit
+- Metasploitable
 - SQLMap (manual understanding only)
 
 _**--Detailed Documentation--**_
